@@ -21,7 +21,7 @@ This approach aims to improve training effectiveness when manually labeled data 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Citation] (#citation)
+- [Citation](#citation)
 - [License](#license)
 
 ## Installation
